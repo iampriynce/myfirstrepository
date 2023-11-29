@@ -1,3 +1,5 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 # Contributing to [Project Name]
 
 Thank you for considering contributing to this project! Here are some guidelines to follow:
